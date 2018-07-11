@@ -1,7 +1,5 @@
 # SBA: Semantic Behavior Analisys
 
-Copyright (c) 2018-2019 CIC Mexico, ISIR Japan.  
-
 # About SBA
 
 "SBA" is a web system for  sentiment analisys of social networks through the comments. The methodology implements an knowledge base.
