@@ -1,0 +1,31 @@
+***********Steiner Created************, returning Ontology Steiner2019-07-09 18:08:55 INFO  FusekiServiceImpl:1872 - **disambiguation completed**
+2019-07-09 18:08:55 INFO  FusekiServiceImpl:877 - **Topic processing starting**
+2019-07-09 18:08:55 INFO  FusekiServiceImpl:148 - criteria expansion level i:1
+2019-07-09 18:08:55 INFO  FusekiServiceImpl:148 - criteria expansion level i:2
+2019-07-09 18:08:55 INFO  FusekiServiceImpl:158 - Loop found and removed
+2019-07-09 18:08:56 INFO  FusekiServiceImpl:148 - criteria expansion level i:3
+2019-07-09 18:08:56 INFO  FusekiServiceImpl:158 - Loop found and removed
+2019-07-09 18:08:57 INFO  FusekiServiceImpl:148 - criteria expansion level i:4
+2019-07-09 18:08:57 INFO  ShortestPathKG:174 - 51 = 1.06612008E8 distance:2.25
+2019-07-09 18:08:57 INFO  FusekiServiceImpl:148 - criteria expansion level i:1
+2019-07-09 18:08:58 INFO  FusekiServiceImpl:148 - criteria expansion level i:2
+2019-07-09 18:08:58 INFO  FusekiServiceImpl:158 - Loop found and removed
+2019-07-09 18:08:58 INFO  FusekiServiceImpl:148 - criteria expansion level i:3
+2019-07-09 18:08:58 INFO  ShortestPathKG:174 - 17 = 1.06193615E8 distance:1.5
+2019-07-09 18:08:58 INFO  ShortestPathKG:174 - 62 = 1.05672484E8 distance:1.5
+2019-07-09 18:08:58 INFO  ShortestPathKG:174 - 31 = 1.05671515E8 distance:1.5
+2019-07-09 18:08:58 INFO  ShortestPathKG:174 - 63 = 1.06142469E8 distance:1.5
+
+		\begin{tabular}{ c  c p{8cm} c }
+			\hline\noalign{\smallskip} 
+			
+			Concept&Sense&Domain Linked&Distance\\
+			\noalign{\smallskip}\hline\noalign{\smallskip}
+			theology& &a particular system or school of religious beliefs and teachings&1.5\\
+			point system& &a system of evaluation based on awarding points according to rules&1.5\\
+			government& &(government) the system or form by which a community or other political unit is governed&1.5\\
+		    logic& &the system of operations performed by a computer&1.5\\
+		    latent content&psychoanalysis&(psychoanalysis) hidden meaning of a fantasy or dream&2.25\\
+			\noalign{\smallskip}\hline
+		\end{tabular}
+		\par\end{centering}
